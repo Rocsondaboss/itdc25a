@@ -9,7 +9,7 @@
 		<link rel="icon" href="https://milligram.github.io/images/icon.png">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
-		<link rel="stylesheet" href="milligram.min.css"><!-- to generate this style run `$ npm start` -->
+		<link rel="stylesheet" href="dist/milligram.min.css"><!-- to generate this style run `$ npm start` -->
 		<link rel="stylesheet" href="https://milligram.github.io/styles/main.css">
 	</head>
 	<body>
